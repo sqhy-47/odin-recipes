@@ -1,0 +1,180 @@
+body{
+    background-color:beige;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align:center;
+    color:brown;
+}
+
+.cbeeflist{
+    color: red;
+}
+
+.img_recipe{
+    
+    width: 50px;
+    height: 50px;
+    position:absolute;
+    top:10px;
+}
+
+
+
+
+/* overlay text over recipe background to protray genshine recipes in the index menu */
+/* .recipe_background{
+    width:700px;
+    height:300px;
+} */
+
+
+.content{
+    position: absolute;;
+}
+
+.content .genshin_element_img{
+    position:absolute;
+    bottom:28px;
+    left:350px;
+    
+}
+.content .xiangling_img{
+    position:absolute;
+    bottom:32px;
+    left:46px;
+}
+.content .adeptus_price{
+    position:absolute;
+    bottom:239px;
+    left:515px;
+}
+.content .furina_price{
+    position:absolute;
+    bottom:208px;
+    left:400px;
+}
+.content .Scara_price{
+    position:absolute;
+    bottom:177px;
+    left:400px;
+}
+.content .Yae_price{
+    position:absolute;
+    bottom:150px;
+    left:400px;
+}
+.content .venti_price{
+    position:absolute;
+    bottom:123px;
+    left:418px;
+}
+.content .keqing_price{
+    position:absolute;
+    bottom: 94px;
+    left:418px;
+}
+.content .xingqiu_price{
+    position:absolute;
+    bottom:67px;
+    left:418px; 
+}
+
+
+
+
+
+.content .adeptus_dish {
+    position: absolute;
+    bottom: 230px;
+    left: 260px;
+    padding: 10px 10px;
+    color: black;
+    font-weight:bold;  
+   }
+.content .adeptus_temp_menu{
+    position:absolute;
+    bottom:230px;
+    left:230px;
+}
+
+.content .furina_dish{
+    position:absolute;
+    bottom: 200px;
+    left:260px;
+    padding:10px 10px;
+    color:black;
+    font-weight:bold;
+}
+.content .la_justice_menu{
+    position:absolute;
+    bottom:200px;
+    left:230px;
+}
+
+.content .Scara_dish{
+    position:absolute;
+    bottom:169px;
+    left:260px;
+    padding:10px 10px;
+    color:black;
+    font-weight:bold;
+}
+
+.content .shimi_menu{
+    position:absolute;
+    bottom:174px;
+    left:233px;
+
+}
+
+.content .Yae_dish{
+    position:absolute;
+    bottom:150px;
+    left:270px;
+    color: black;
+}
+
+.content .Yae_menu{
+    position:absolute;
+    bottom:143px;
+    left:233px;
+}
+
+.content .venti_dish{
+    position:absolute;
+    bottom:123px;
+    left:268px;
+    color: black;
+}
+
+.content .venti_menu{
+    position:absolute;
+    bottom:115px;
+    left:233px;
+}
+
+.content .keqing_dish{
+    position:absolute;
+    bottom:95px;
+    left:268px;
+    color:black;
+}
+
+.content .keqing_menu{
+    position:absolute;
+    bottom:87px;
+    left:234px; 
+}
+
+.content .xingqiu_dish{
+    position:absolute;
+    bottom:67px;
+    left:268px;
+}
+.content .xingqiu_menu{
+    position:absolute;
+    bottom:59px;
+    left:234px;
+}
